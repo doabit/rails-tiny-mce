@@ -1,0 +1,4 @@
+<% if @attachment.errors.any? %>
+$(function(){alert("Upload fails!")});
+<% end -%>
+$(function(){upload_callback()});
