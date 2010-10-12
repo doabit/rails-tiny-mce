@@ -1,6 +1,11 @@
 RailsTinyMCE,i find it can not be used in rails3,so i changed it for rails3.
 ----------------------------------------------------------------------
 cheng it
+it's author is http://github.com/sandipransing/rails_tiny_mce
+
+i have found another Rich Text Editor kindeditor and make a gem in http://github.com/doabit/kindeditor
+
+
 # RailsTinyMCE - A Rich Text Editor for ruby on rails
 
 TinyMCE is a javascript rich text editor. It is easy to integrate with blogs, cms, messages and mailers.
