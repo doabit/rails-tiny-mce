@@ -24,7 +24,7 @@ Features
 
 1. Install rails_tiny_mce plugin using
 --------------------- 
-   	rails plugin install git://github.com/doabit/rails_tiny_mce.git
+   	rails plugin install https://github.com/doabit/rails-tiny-mce.git
  
     rails g rails_tiny_mce_migration
     
